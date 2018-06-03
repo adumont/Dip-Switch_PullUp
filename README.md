@@ -8,8 +8,8 @@
 # What we need
 
 - Breadboard
-- 8 bit DIP Switch
-- 9 pins 3.3KOhm bussed resistor array
+- [8 poles DIP Switch](https://www.mouser.es/ProductDetail/Omron-Electronics/A6E-8104-N?qs=sGAEpiMZZMv%2f%252b2JhlA6ysK8z9VoUe3M4NRXxMPQBGgI%3d)
+- [9 pins 3.3KOhm bussed resistor array](https://www.mouser.es/ProductDetail/652-4609X-1LF-3.3K)
 
 # Schematics
 
